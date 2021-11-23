@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.scholar{
+    background-color: #313552;
+    color: white;
+    border-bottom: 1px solid #fad198;
+    font-family: 'Poppins', sans-serif;
+}
+.scholar img{
+    width: 100%;
+    height: 275px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 12px .1px black;
+    margin-bottom: 10px;
+}
+.s-info{
+    padding: 0 20px 20px 20px;
+    text-align: left;
+    height: 230px;
+}
+.golden{
+    color: #FFC576;
+}
+.btn{
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    background-color: transparent;
+    padding: 10px 20px;
+    color: #FFC576;
+    border: 1px solid #FFC576;
+    font-size: 18px;
+    border-radius: 2px;
+    transition: .5s;
+}
+.btn:hover{
+    background-color: #FFC576;
+    color: black;
+}
